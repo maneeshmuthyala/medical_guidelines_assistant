@@ -1,0 +1,4 @@
+*.pdf
+/chroma_clinical_db
+.env
+requirements.txt
